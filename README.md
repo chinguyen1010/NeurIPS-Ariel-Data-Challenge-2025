@@ -1,5 +1,6 @@
-# NeurIPS: Ariel Data Challenge 2025
-Derive exoplanet signals from Ariel's optical instruments. Create models that clean up messy telescope data in order to see the faint chemical traces in exoplanet atmospheres.
+# NeurIPS: Ariel Data Challenge 2025 (sponsor by UCL)
+Derive exoplanet signals from Ariel's optical instruments. Create models that clean up messy telescope data in order to see the faint chemical traces in exoplanet atmospheres
+<img width="560" height="280" alt="image" src="https://github.com/user-attachments/assets/437b5052-71b5-4862-9835-0c7138d61e3b" />
 
 Description
 When an exoplanet passes in front of its host star, a small amount of starlight filters through the planet's atmosphere. This technique, known as transit spectroscopy, enables researchers to analyze atmospheric composition. However, these signals are incredibly faint, often hidden by complex, time-dependent noise from both the instruments and the stars themselves.
