@@ -2,6 +2,7 @@
 
 Derive exoplanet signals from Ariel's optical instruments. Create models that clean up messy telescope data in order to see the faint chemical traces in exoplanet atmospheres
 
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/8b11daf0-7055-4a0f-a212-6d6a9fc4bdd5" />
 
 <img width="560" height="280" alt="image" src="https://github.com/user-attachments/assets/437b5052-71b5-4862-9835-0c7138d61e3b" />
 
